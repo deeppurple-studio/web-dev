@@ -1,7 +1,7 @@
 # Основы
 
 ## HTML
-+ [Туториал](https://github.com/)
++ [Туториал](https://github.com/web-dev/blob/main/html/README.md)
 + [learn.javascript.ru](https://learn.javascript.ru/)
 
 ## CSS
