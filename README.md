@@ -2,11 +2,17 @@
 
 ## HTML
 + [Туториал](https://github.com/deeppurple-studio/web-dev/blob/main/html/README.md)
++ [Описание тегов и их использование (внешняя ссылка)](http://htmlbook.ru/html)
 
 ## CSS
-+ [Туториал](https://github.com/)
-
+> На стадии написания
++ [Туториал](https://github.com/deeppurple-studio/web-dev)
 
 ## JavaScript
-+ [Туториал](https://github.com/)
-+ [learn.javascript.ru](https://learn.javascript.ru/)
++ [Сайт learn.javascript.ru](https://learn.javascript.ru/)
+> На стадии написания
++ [Туториал](https://github.com/deeppurple-studio/web-dev)
+
+## JSON
+> На стадии написания
++ [Туториал](https://github.com/deeppurple-studio/web-dev)
