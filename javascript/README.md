@@ -144,6 +144,6 @@ var a = 2;
 
 ## Что дальше?
 
-[Основы JavaScript](https://github.com/deeppurple-studio/web-dev/blob/javascript/MainTutor.md)
+[Основы JavaScript](https://github.com/deeppurple-studio/web-dev/blob/main/javascript/MainTutor.md)
 
-[DOM-модель](https://github.com/deeppurple-studio/web-dev/blob/javascript/DOMModel.md)
+[DOM-модель](https://github.com/deeppurple-studio/web-dev/blob/main/javascript/DOMModel.md)
