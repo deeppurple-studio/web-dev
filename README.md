@@ -1,5 +1,7 @@
 # Основы
 
+> *Данный гайд дает только начальные, базовые знания (не в полной мере, но для входа хватит). То есть показывает, в какую сторону следует копать информацию.*
+
 ## HTML
 
 + [Туториал](https://github.com/deeppurple-studio/web-dev/blob/main/html/README.md)
@@ -18,6 +20,8 @@
 ## JavaScript
 
 + [Туториал](https://github.com/deeppurple-studio/web-dev/blob/main/javascript/README.md)
+
++ [Шпаргалка](https://github.com/deeppurple-studio/web-dev/blob/main/javascript/CheatSheet.md)
 
 Дополнительные ресурсы:
 + [Сайт learn.javascript.ru](https://learn.javascript.ru/)
