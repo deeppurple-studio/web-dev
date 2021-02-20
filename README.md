@@ -21,13 +21,9 @@
 
 + [Туториал](https://github.com/deeppurple-studio/web-dev/blob/main/javascript/README.md)
 
-+ [Шпаргалка](https://github.com/deeppurple-studio/web-dev/blob/main/javascript/CheatSheet.md)
-
 Дополнительные ресурсы:
 + [Сайт learn.javascript.ru](https://learn.javascript.ru/)
 
 ## JSON
-
-> На стадии написания
 
 + [Туториал](https://github.com/deeppurple-studio/web-dev/blob/main/json/README.md)
